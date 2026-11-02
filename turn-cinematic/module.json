@@ -1,0 +1,22 @@
+{
+  "id": "turn-cinematic",
+  "title": "Turn Cinematic",
+  "description": "Give characters a faction (Prophet, Angel, Liquidator or Survivor). When it becomes their turn in combat, a cinematic plays: faction background video, their portrait, their name, and a faction sound. Each faction has its own composition and typeface (the Prophet's seal, parchment and rays are pictures you can replace); Angels float straight over the game, as horrors with grades D-C-B-A: stamped onto the screen, with wings and halos, and hands reaching in at the top grades.",
+  "version": "0.7.0",
+  "authors": [
+    {
+      "name": "You",
+      "flags": {}
+    }
+  ],
+  "compatibility": {
+    "minimum": "1",
+    "verified": "13"
+  },
+  "esmodules": [
+    "scripts/main.js"
+  ],
+  "styles": [
+    "styles/turn-cinematic.css"
+  ]
+}
